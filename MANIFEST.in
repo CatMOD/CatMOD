@@ -1,0 +1,10 @@
+include CHANGELOG.rst
+include CONTRIBUTING.rst
+include LICENSE
+include MANIFEST.in
+include README.rst
+include requirements.txt
+
+include .flake8
+
+include test_data *

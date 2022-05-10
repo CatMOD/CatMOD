@@ -1,0 +1,6 @@
+catboost
+h5py
+numpy
+pysam
+rich
+scipy
