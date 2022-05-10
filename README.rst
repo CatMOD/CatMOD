@@ -20,7 +20,7 @@ Description
 
 .. class:: no-web no-pdf
 
-    .. image:: https://github.com/CatMOD/CatMOD/blob/main/img/catmod.model.png
+    .. image:: https://github.com/CatMOD/CatMOD/blob/main/img/catmod.model.jpg
 
 Getting Started
 ---------------
