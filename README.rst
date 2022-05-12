@@ -16,7 +16,7 @@ CatMOD
 Description
 -----------
 
-**CatMOD** is a .
+**CatMOD** is a **Cat**\ Boost-based feature-con\ *cat*\ enation method for **m**\ 6A *mod*\ ification recognition from **O**\ NT **D**\ RS.
 
 .. class:: no-web no-pdf
 
@@ -29,6 +29,20 @@ Requirements
 ~~~~~~~~~~~~
 
 CatMOD Project is a python3 package. To use CatMOD, python version 3.9 or higher is required.
+
+- python >= 3.9
+
+- catboost
+
+- h5py
+
+- numpy
+
+- pysam
+
+- rich
+
+- scipy
 
 Installation
 ~~~~~~~~~~~~
@@ -97,6 +111,10 @@ Predicting
 Support
 -------
 
+For any bugs/issues, please feel free to leave a message at Github issues. We will try our best to deal with all issues as soon as possible.
+
+For any suggestions/comments, please send emails to: Shang Xie xieshang0608@gmail.com, Jingjing Zhai zhaijingjing603@gmail.com.
+
 Contributing
 ------------
 
@@ -113,4 +131,4 @@ Changelog
 
 .. |version| image:: https://img.shields.io/badge/version-v0.0.1a-green.svg
 
-.. |update| image:: https://img.shields.io/badge/last%20updated-10%20May%202022-orange.svg
+.. |update| image:: https://img.shields.io/badge/last%20updated-13%20May%202022-orange.svg
